@@ -1,5 +1,5 @@
 Hello world!
 123
 Hey!
-Line from user2
+Line from user2 another line from user1
 Line from user1
