@@ -2,3 +2,4 @@ Hello universe!
 123
 Line by user2
 Fix critical bug
+Line from user 2 lesson rebase
