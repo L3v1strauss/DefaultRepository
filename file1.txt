@@ -3,3 +3,4 @@ Hello world!
 Hey!
 Line from user2 and another text from user2
 Line from user1
+Add new function
